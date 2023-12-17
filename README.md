@@ -3,6 +3,8 @@ Projet réalisé dans le cadre de la formation développeur Web et Web mobile (E
 
 Objectif : Réaliser une application web BackEnd structurée en couches
 
+Projet réalisé sur Eclipse et SQLServer
+
 Fonctionnalités réalisées : 
 
 Gestion des utilisateurs
